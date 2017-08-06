@@ -1,0 +1,2 @@
+# Kmean
+kmean algorithm practice
